@@ -1,7 +1,5 @@
 # Steady state DC machine model
-The goal of this repository is to help students learning about DC machines to understand and simulate these machines. This is currently a work in progress, but will include full derivations and explanations for all equations and circuits.
-
-For now though, the circuit and equations will only be given, without references or explanation/derivation.
+As of now, this repository is entirely for me to get accustomed to Git and Github. Hence, there is no regard for correctness.
 
 ## Back EMF:
 ![E_f](http://www.sciweavers.org/tex2img.php?eq=E_f%20%3D%20K%5CPhi_p%20%5Comega_m&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
